@@ -3,13 +3,12 @@
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
-
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: darkslategrey;
-  background-image: img_src="img/forest.jpg";
 }
+
 
 @media (min-width: 992px) {
   body {
@@ -177,12 +176,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: darkolivegreen !important;
+  background-color: red !important;
 }
 
-.text-primary {
-  color: green; !important;
-}
 
 a {
   color: #BD5D38;
